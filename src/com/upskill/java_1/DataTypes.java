@@ -22,7 +22,11 @@ public class DataTypes {
 			
 			System.out.println(isSnowing);
 			System.out.println(isRaining);
-	
+			
+			//git Alter
+			//raising Rp
+			//Injamam Tuhin
+			
 	}
 
 }
