@@ -35,6 +35,11 @@ public class Inheritance extends MethodType{
 	
 	}
 
+	private void practiceForLoop() {
+		// TODO Auto-generated method stub
+		
+	}
+
 	private void nj(String string) {
 		// TODO Auto-generated method stub
 		
